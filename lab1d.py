@@ -3,4 +3,4 @@ x = 10
 y = 2
 z = 5
 sum = x + y * z
-print(x, '+', y, '*', z, '=', sum)
+print(str(x) + '+' + str(y) + '*' + str(z) + '=' + str(sum))
